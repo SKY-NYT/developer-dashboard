@@ -51,9 +51,9 @@ const render = (data) => {
 searchInput.addEventListener('input', (e) => {
   const term = e.target.value.toLowerCase();
   const filtered = resources.filter(
-    (res) =>
-      res.name.toLowerCase().includes(term) ||
-      res.category.toLowerCase().includes(term),
+    (resource) =>
+      resource.name.toLowerCase().includes(term) ||
+      resource.category.toLowerCase().includes(term),
   );
   render(filtered);
 });
