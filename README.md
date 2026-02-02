@@ -19,4 +19,4 @@ A lightweight web application displaying developer resources, built to demonstra
 
 ## Reflection
 
-Reflecting on the process, Vite improved my Developer Experience with Hot Module Replacement I saw my changes instantly without refreshing.. For the user, Vite’s smart bundling means the dashboard loads almost instantly because it doesn't force them to download unnecessary code, unlike older tools that make you wait for one giant file to load.
+Reflecting on the process, Vite improved my Developer Experience with Hot Module Replacement I saw my changes instantly without refreshing For the user, Vite’s smart bundling means the dashboard loads almost instantly because it doesn't force them to download unnecessary code, unlike older tools that make you wait for one giant file to load.
