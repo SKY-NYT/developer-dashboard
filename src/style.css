@@ -1,15 +1,19 @@
 :root {
-  --primary: #10b981; 
-  --primary-dark: #059669; 
-  --bg: #f0fdf4; 
-  --text: #064e3b; 
+  --primary: #10b981;
+  --primary-dark: #059669;
+  --bg: #f0fdf4;
+  --text: #064e3b;
   --card-bg: #ffffff;
 }
 
 body {
   background-color: var(--bg);
   color: var(--text);
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-family:
+    'Inter',
+    system-ui,
+    -apple-system,
+    sans-serif;
   margin: 0;
   display: flex;
   justify-content: center;
@@ -79,7 +83,9 @@ header p {
 
 .card:hover {
   transform: translateY(-8px);
-  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.05), 0 10px 10px -5px rgba(0, 0, 0, 0.02);
+  box-shadow:
+    0 20px 25px -5px rgba(0, 0, 0, 0.05),
+    0 10px 10px -5px rgba(0, 0, 0, 0.02);
   border-color: var(--primary);
 }
 
