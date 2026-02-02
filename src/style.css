@@ -1,8 +1,8 @@
 :root {
-  --primary: #10b981; /* Emerald 500 */
-  --primary-dark: #059669; /* Emerald 600 */
-  --bg: #f0fdf4; /* Very light emerald tint */
-  --text: #064e3b; /* Deep emerald-gray for text */
+  --primary: #10b981; 
+  --primary-dark: #059669; 
+  --bg: #f0fdf4; 
+  --text: #064e3b; 
   --card-bg: #ffffff;
 }
 
